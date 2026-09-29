@@ -108,6 +108,7 @@ Glassdoor 上面介绍过了
 -  Overleaf - https://www.overleaf.com
 -  Reactive Resume - https://rxresu.me
 -  Rezi - http://rezi.ai/ai-resume-builder
+-  ResumeAI - https://withresumeai.com/  (free ATS resume checker; State of ATS 2026 dataset)
 -  Resumake - http://resumake.io/ 
 -  Resume - http://resume.com/ 
 -  JSON Resume - http://jsonresume.org/
